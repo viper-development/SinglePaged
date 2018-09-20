@@ -5,10 +5,10 @@ color: black
 fa-icon: file-text-o
 ---
 <div class="pricebox" style="text-align: center;">
-<header style="background-color: #093099; width : 500px; padding-left: 0px;">Bewerbung</header>
-<p style="align: center; padding-left: 0px; width: 400px;" >Beantworte uns einfach hier ein paar kurze Fragen - wir melden uns innerhalb von einer Woche mit weiteren Informationen.</p>
+<header style="background-color: #093099; width : 100%; padding-left: 0px;">Bewerbung</header>
+<p style="align: center; padding-left: 0px; width: 100%;" >Beantworte uns einfach hier ein paar kurze Fragen - wir melden uns innerhalb von einer Woche mit weiteren Informationen.</p>
 
-<p style="align: center; padding-left: 0px; width: 400px;">Wir nehmen Bewerbungen bis zum 30. November an - aber! - je früher du dich bewirbst desto besser sind deine Chancen.</p>
+<p style="align: center; padding-left: 0px; width: 100%;">Wir nehmen Bewerbungen bis zum 30. November an - aber! - je früher du dich bewirbst desto besser sind deine Chancen.</p>
 <div>
 
 

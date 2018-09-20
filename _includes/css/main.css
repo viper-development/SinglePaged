@@ -424,6 +424,11 @@ nav ul li:hover, nav ul li.active {
   position: sticky;
 }
 
+.pricebox div.figure {
+  float: right;
+  padding-top: 35px;
+}
+
 .pricebox p{
   font-family: arial, sans-serif;
   display: inline-block;
@@ -446,8 +451,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 .smalltextbox {
-  align: center
-  width: 200px
+  width: 90%;
   display: inline-block;
   text-align: center;
 }
@@ -505,5 +509,32 @@ nav ul li:hover, nav ul li.active {
     -webkit-column-count: 2;
     -moz-column-count:    2;
     column-count:         2;
+  }
+
+  .pricebox {
+    width: 90%;
+  }
+
+  .pricebox p {
+    width: 100%;
+    padding-left: 0px;
+  }
+
+  .pricebox ul.a {
+    width: 100%;
+    padding-left: 10px;
+  }
+
+  .block-slogan span {
+    display: block;
+  }
+
+  .pricebox div.figure {
+    float: none;
+    padding: 0px;
+    padding-top: 20px;
+
+    width: 100%;
+    text-align: center;
   }
 }
