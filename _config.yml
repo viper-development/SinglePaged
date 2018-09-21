@@ -27,6 +27,7 @@ google_analytics_key:
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
+  gray:      '#e3e3e3'
   blue:      '#201b54'
   green:     '#6ca100'
   purple:    '#c869bf'
