@@ -49,6 +49,13 @@
     {% endfor %}
   </div>
 
+  <div id="footer" class="section text-white">
+    <div class="container">
+      {% capture foottext %} {% include footer.md %} {% endcapture %}
+      {{ foottext | markdownify }}
+    </div>
+  </div>
+
 {% include analytics.html %}
 </body>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
