@@ -14,4 +14,6 @@ fa-icon: file-text-o
 <div>
 
 
-<a class="button" href="https://sils1.typeform.com/to/TsR3Vv" data-mode="popup" data-submit-close-delay="5" target="_blank">Bewirb dich jetzt! </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+<a class="button" href="https://sils1.typeform.com/to/TsR3Vv" data-mode="popup" data-submit-close-delay="5" target="_blank">Bewirb dich jetzt! </a>
+<a href="https://www.eventbrite.de/e/nikolauspitch-tickets-51460197837" class="button">Als Besucher Anmelden</a>
+<script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
